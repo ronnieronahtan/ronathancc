@@ -1,0 +1,6 @@
+@RoanathanCC_HostAddress = http://localhost:5161
+
+GET {{RoanathanCC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
